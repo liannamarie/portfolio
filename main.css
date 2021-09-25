@@ -39,4 +39,11 @@ a:visited {
 a: hover {
   color: purple;
 }
-    
+
+ul {
+  text-align: center;
+}
+
+ol {
+  text-align: center;
+}
