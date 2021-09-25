@@ -5,20 +5,20 @@ body {
 h1 {
   font-family: Georgia, serif;
   font-size: large;
-  font-color: #e75480
+  color: #e75480
     
 }
 
 h2 {
   font-family: Arial, sans-serif;
   font-size: medium;
-  font-color: pink;
+  color: pink;
 }
 
 h3 {
   font-family: Arial, sans-serif;
   font-size: small;
-  font-color: black;
+  color: black;
 }
 
 main {
