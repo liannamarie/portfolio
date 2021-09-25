@@ -1,4 +1,31 @@
 body {
-  background-color:#D3D3D3
+  background-color:#D3D3D3;
+    }
+
+h1 {
+  font-family: Georgia, serif;
+  font-size: large;
+  font-color: #e75480
     
 }
+
+h2 {
+  font-family: Arial, sans-serif;
+  font-size: medium;
+  font-color: pink;
+}
+
+h3 {
+  font-family: Arial, sans-serif;
+  font-size: small;
+  font-color: black;
+}
+
+main {
+  margin: 25px;
+  padding: 25px;
+  height: 150px;
+  text-align: center;
+}
+
+    
